@@ -1,2 +1,0 @@
-# raja1
-devops
